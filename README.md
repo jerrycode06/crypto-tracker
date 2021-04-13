@@ -4,6 +4,10 @@
 
 Just for fun, Hope you'll get some help before investing in bitcoin.
 
+### This is what I made
+
+<img src="public/crypto.png"/>
+
 ## Available Scripts
 
 In the project directory, you can run:
