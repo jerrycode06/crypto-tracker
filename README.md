@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Crypto Tracker React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1e340d71-f21a-4978-a4a8-b0ced485891c/deploy-status)](https://app.netlify.com/sites/cryptoreacttracker/deploys)
+
+Just for fun, Hope you'll get some help before investing in bitcoin.
 
 ## Available Scripts
 
@@ -23,3 +25,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Hosted
+
+You can see the hosted version here - https://cryptoreacttracker.netlify.app/
